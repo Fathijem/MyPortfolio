@@ -1,0 +1,190 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.index-mEY {
+  width: 100%;
+  height: 210.2rem;
+  position: relative;
+}
+.index-mEY .index-YuW {
+  width: 144rem;
+  height: 210.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background: linear-gradient(180deg, #d78bf2 0%, rgba(183, 51, 245, 0.6499999762) 40.62%, rgba(250, 127, 201, 0.6000000238) 69.79%, #cc7cea 100%);
+}
+.index-mEY .index-YuW .auto-group-vhfe-MVa {
+  width: 87.5rem;
+  height: 5rem;
+  position: absolute;
+  left: 47.4rem;
+  top: 3.9rem;
+  display: flex;
+  align-items: center;
+}
+.index-mEY .index-YuW .auto-group-vhfe-MVa .about-button-SX2 {
+  margin-right: 5.7rem;
+  width: 18.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #363636;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c877e7;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-mEY .index-YuW .auto-group-vhfe-MVa .skillset-button-ESt {
+  margin-right: 7.4rem;
+  width: 18.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #363636;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c877e7;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-mEY .index-YuW .auto-group-vhfe-MVa .blogsbutton-6jz {
+  width: 36.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #363636;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #c877e7;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-mEY .index-YuW .welcome-everyone-bRr {
+  width: 57.4rem;
+  height: 7rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 39.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #ffffff;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.index-mEY .index-YuW .im-fathima-jemina-fRi {
+  width: 46.8rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 48.05rem;
+  display: flex;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: IBM Plex Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.index-mEY .index-YuW .student-cybersecurity-Lnk {
+  width: 35.2rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 54.7rem;
+  display: flex;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #ffffff;
+  font-family: Hurricane, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.index-mEY .index-YuW .auto-group-y5qz-ogL {
+  width: 131.05rem;
+  height: 80.9rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 115.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.index-mEY .index-YuW .auto-group-y5qz-ogL .image-2-XsE {
+  margin-right: 5.5rem;
+  width: 56.9rem;
+  height: 80.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.index-mEY .index-YuW .auto-group-y5qz-ogL .auto-group-jcqv-rPi {
+  margin-top: 4.8rem;
+  width: 68.65rem;
+  flex-shrink: 0;
+}
+.index-mEY .index-YuW .auto-group-y5qz-ogL .auto-group-jcqv-rPi .a-little-bit-about-myself-o44 {
+  margin-bottom: 15.35rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7.2rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #ffffff;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.index-mEY .index-YuW .auto-group-y5qz-ogL .auto-group-jcqv-rPi .im-a-bachelor-of-technology-pursuing-b-tech-cybersecurity-at-bsa-crescent-institute-of-science-and-technology-coding-adoration-interested-in-solving-ctfcapture-the-flag-problems-5nG {
+  width: 100%;
+  max-width: 67.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: IBM Plex Sans, 'Source Sans Pro';
+}
+.index-mEY .image-1-Byi {
+  width: 85.9rem;
+  height: 54.0771rem;
+  position: absolute;
+  left: 51.4rem;
+  top: 20.5061rem;
+  object-fit: cover;
+  vertical-align: top;
+}
